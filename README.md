@@ -5,7 +5,7 @@ Show the number of subscribers of a *Mailchimp* Newsletter on your *Panic Status
 1. Go to Mailchimp's website and [get your API-Key](http://kb.mailchimp.com/article/where-can-i-find-my-api-key).
 2. Download **statusboard-mailchimp-subscribers.php** and enter your API-Key on line 56.
 3. Upload the file to your server.
-4. On your iPad: Open Status Board, add a DIY panel (the one with the "< >" symbols), tap on it and enter the path to the files on your server. (http://example.com/path/to/statusboard-facebook-likes.php)
+4. On your iPad: Open Status Board, add a DIY panel (the one with the "< >" symbols), tap on it and enter the path to the files on your server. (http://example.com/path/to/statusboard-mailchimp-subscribers.php)
 4. Be happy.
 
 ## For minimalists
