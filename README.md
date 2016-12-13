@@ -1,6 +1,9 @@
 # Status Board Mailchimp Subscribers
 Show the number of subscribers of a *Mailchimp* Newsletter on your *Panic Status Board*.
 
+## STATUS BOARD IS DISCONTINUED!
+Update November 2016: From now on, Status Board is history. Read more about it on the [Panic Blog](https://panic.com/blog/the-future-of-status-board/).
+
 ## How to use it
 1. Go to Mailchimp's website and [get your API-Key](http://kb.mailchimp.com/article/where-can-i-find-my-api-key).
 2. Download **statusboard-mailchimp-subscribers.php** and enter your API-Key on line 56.
